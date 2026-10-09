@@ -1,0 +1,344 @@
+{
+  "Apple___Apple_scab": {
+    "crop": "Apple",
+    "disease": "Apple Scab",
+    "organic": "Apply sulfur or copper-based fungicides early in the season. Remove and destroy fallen leaves. Prune for better air circulation.",
+    "chemical": "Use fungicides containing myclobutanil, fenbuconazole, or captan. Apply at green tip, pink bud, and petal fall stages.",
+    "prevention": "Plant resistant varieties (Liberty, Enterprise, GoldRush). Rake and destroy fallen leaves. Avoid overhead irrigation.",
+    "urgency": "high",
+    "severity": "Can cause 70-100% crop loss if untreated"
+  },
+  "Apple___Black_rot": {
+    "crop": "Apple",
+    "disease": "Black Rot",
+    "organic": "Remove mummified fruit and cankers. Apply copper sprays. Prune infected branches.",
+    "chemical": "Apply captan or mancozeb fungicides from pink bud through harvest. Use thiophanate-methyl for cankers.",
+    "prevention": "Sanitation - remove all mummies and dead wood. Prune for air flow. Avoid wounding fruit.",
+    "urgency": "high",
+    "severity": "Fruit rot and cankers can kill limbs"
+  },
+  "Apple___Cedar_apple_rust": {
+    "crop": "Apple",
+    "disease": "Cedar Apple Rust",
+    "organic": "Remove nearby junipers/cedars if possible. Apply sulfur or neem oil. Use resistant varieties.",
+    "chemical": "Apply myclobutanil, fenarimol, or triadimefon at pink bud and petal fall.",
+    "prevention": "Plant resistant apple varieties. Remove alternate hosts (junipers) within 1km. Avoid overhead watering.",
+    "urgency": "medium",
+    "severity": "Defoliation weakens tree, reduces yield"
+  },
+  "Apple___healthy": {
+    "crop": "Apple",
+    "disease": "Healthy",
+    "organic": "No treatment needed. Continue good cultural practices.",
+    "chemical": "No treatment needed.",
+    "prevention": "Maintain regular pruning, balanced fertilization, and pest monitoring.",
+    "urgency": "none",
+    "severity": "No disease present"
+  },
+  "Blueberry___healthy": {
+    "crop": "Blueberry",
+    "disease": "Healthy",
+    "organic": "No treatment needed. Maintain acidic soil (pH 4.5-5.5).",
+    "chemical": "No treatment needed.",
+    "prevention": "Mulch with pine bark. Irrigate with acidified water. Monitor for pests.",
+    "urgency": "none",
+    "severity": "No disease present"
+  },
+  "Cherry___Powdery_mildew": {
+    "crop": "Cherry",
+    "disease": "Powdery Mildew",
+    "organic": "Apply sulfur or potassium bicarbonate. Prune for air circulation. Remove infected leaves.",
+    "chemical": "Use myclobutanil, fenbuconazole, or propiconazole. Apply at first sign and repeat.",
+    "prevention": "Plant resistant varieties. Avoid excess nitrogen. Ensure good air flow.",
+    "urgency": "medium",
+    "severity": "Reduces photosynthesis, weakens tree"
+  },
+  "Cherry___healthy": {
+    "crop": "Cherry",
+    "disease": "Healthy",
+    "organic": "No treatment needed.",
+    "chemical": "No treatment needed.",
+    "prevention": "Prune annually. Monitor for pests. Fertilize appropriately.",
+    "urgency": "none",
+    "severity": "No disease present"
+  },
+  "Corn___Cercospora_leaf_spot Gray_leaf_spot": {
+    "crop": "Corn",
+    "disease": "Gray Leaf Spot",
+    "organic": "Rotate crops (2+ years). Use resistant hybrids. Tillage to bury residue.",
+    "chemical": "Apply pyraclostrobin, azoxystrobin, or propiconazole at VT-R1 stage.",
+    "prevention": "Crop rotation. Resistant hybrids. Balanced fertility. Scout early.",
+    "urgency": "high",
+    "severity": "Can cause 20-50% yield loss"
+  },
+  "Corn___Common_rust": {
+    "crop": "Corn",
+    "disease": "Common Rust",
+    "organic": "Plant resistant hybrids. Early planting to avoid peak spore loads.",
+    "chemical": "Fungicides rarely needed. If severe, use azoxystrobin or pyraclostrobin.",
+    "prevention": "Resistant hybrids. Early planting. Monitor southern winds for spores.",
+    "urgency": "low",
+    "severity": "Usually minor, can reduce yield in severe cases"
+  },
+  "Corn___Northern_Leaf_Blight": {
+    "crop": "Corn",
+    "disease": "Northern Leaf Blight",
+    "organic": "Crop rotation. Resistant hybrids. Tillage. Remove debris.",
+    "chemical": "Apply azoxystrobin, pyraclostrobin, or propiconazole at VT-R1.",
+    "prevention": "Rotation with non-host crops. Resistant hybrids. Residue management.",
+    "urgency": "high",
+    "severity": "Significant yield loss in susceptible hybrids"
+  },
+  "Corn___healthy": {
+    "crop": "Corn",
+    "disease": "Healthy",
+    "organic": "No treatment needed.",
+    "chemical": "No treatment needed.",
+    "prevention": "Crop rotation. Balanced fertility. Weed control. Scout regularly.",
+    "urgency": "none",
+    "severity": "No disease present"
+  },
+  "Grape___Black_rot": {
+    "crop": "Grape",
+    "disease": "Black Rot",
+    "organic": "Remove mummies. Apply copper or sulfur. Prune for air flow.",
+    "chemical": "Use mancozeb, ziram, or myclobutanil. Critical sprays at bloom and post-bloom.",
+    "prevention": "Sanitation - remove all mummies. Canopy management. Resistant varieties.",
+    "urgency": "high",
+    "severity": "Can destroy entire crop"
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "crop": "Grape",
+    "disease": "Esca (Black Measles)",
+    "organic": "No cure. Remove infected vines. Manage water stress.",
+    "chemical": "No effective chemical control. Preventive pruning wound protection.",
+    "prevention": "Use clean planting material. Protect pruning wounds. Avoid stress.",
+    "urgency": "high",
+    "severity": "Chronic decline, vine death. No cure."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "crop": "Grape",
+    "disease": "Leaf Blight (Isariopsis)",
+    "organic": "Remove infected leaves. Copper sprays. Improve air circulation.",
+    "chemical": "Apply mancozeb or copper hydroxide. Start at 3-5 inch shoot growth.",
+    "prevention": "Canopy management. Remove leaf debris. Avoid overhead irrigation.",
+    "urgency": "medium",
+    "severity": "Defoliation reduces fruit quality"
+  },
+  "Grape___healthy": {
+    "crop": "Grape",
+    "disease": "Healthy",
+    "organic": "No treatment needed.",
+    "chemical": "No treatment needed.",
+    "prevention": "Canopy management. Balanced nutrition. Disease monitoring.",
+    "urgency": "none",
+    "severity": "No disease present"
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "crop": "Orange",
+    "disease": "Huanglongbing (Citrus Greening)",
+    "organic": "No cure. Remove infected trees. Control psyllid vector with oils/soaps.",
+    "chemical": "Systemic insecticides for psyllid control (imidacloprid, thiamethoxam). No cure for bacteria.",
+    "prevention": "Use certified disease-free nursery trees. Psyllid management. Quarantine compliance.",
+    "urgency": "critical",
+    "severity": "Fatal. Tree death in 3-5 years. No cure."
+  },
+  "Peach___Bacterial_spot": {
+    "crop": "Peach",
+    "disease": "Bacterial Spot",
+    "organic": "Copper sprays at bud break. Resistant varieties. Avoid overhead irrigation.",
+    "chemical": "Copper compounds (fixed copper). Oxytetracycline (where permitted).",
+    "prevention": "Resistant varieties. Pruning for air flow. Avoid wounding. Sanitation.",
+    "urgency": "high",
+    "severity": "Fruit lesions, defoliation, twig cankers"
+  },
+  "Peach___healthy": {
+    "crop": "Peach",
+    "disease": "Healthy",
+    "organic": "No treatment needed.",
+    "chemical": "No treatment needed.",
+    "prevention": "Annual pruning. Thinning. Balanced fertilization. Pest monitoring.",
+    "urgency": "none",
+    "severity": "No disease present"
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "crop": "Bell Pepper",
+    "disease": "Bacterial Spot",
+    "organic": "Copper sprays. Resistant varieties. Hot water seed treatment. Crop rotation.",
+    "chemical": "Copper hydroxide + mancozeb. Streptomycin (seedlings only).",
+    "prevention": "Resistant varieties. Pathogen-free seeds. Drip irrigation. Rotation.",
+    "urgency": "high",
+    "severity": "Fruit spots, leaf drop, yield loss"
+  },
+  "Pepper,_bell___healthy": {
+    "crop": "Bell Pepper",
+    "disease": "Healthy",
+    "organic": "No treatment needed.",
+    "chemical": "No treatment needed.",
+    "prevention": "Crop rotation. Disease-free transplants. Drip irrigation. Mulching.",
+    "urgency": "none",
+    "severity": "No disease present"
+  },
+  "Potato___Early_blight": {
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "organic": "Crop rotation. Resistant varieties. Mulch. Copper sprays.",
+    "chemical": "Chlorothalonil, mancozeb, or azoxystrobin. Start at row closure.",
+    "prevention": "Rotation (3+ years). Certified seed. Balanced N. Avoid stress.",
+    "urgency": "medium",
+    "severity": "Reduces tuber size and yield"
+  },
+  "Potato___Late_blight": {
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "organic": "Copper sprays. Destroy volunteers. Resistant varieties. Wide spacing.",
+    "chemical": "Mancozeb, chlorothalonil, cymoxanil, or fluazinam. Weekly in conducive weather.",
+    "prevention": "Certified seed. Eliminate cull piles. Forecast models. Resistant varieties.",
+    "urgency": "critical",
+    "severity": "Can destroy crop in days. Irish famine pathogen."
+  },
+  "Potato___healthy": {
+    "crop": "Potato",
+    "disease": "Healthy",
+    "organic": "No treatment needed.",
+    "chemical": "No treatment needed.",
+    "prevention": "Certified seed. Rotation. Hilling. Balanced nutrition. Scout weekly.",
+    "urgency": "none",
+    "severity": "No disease present"
+  },
+  "Raspberry___healthy": {
+    "crop": "Raspberry",
+    "disease": "Healthy",
+    "organic": "No treatment needed.",
+    "chemical": "No treatment needed.",
+    "prevention": "Remove old canes. Trellis for air flow. Mulch. Monitor for viruses.",
+    "urgency": "none",
+    "severity": "No disease present"
+  },
+  "Soybean___healthy": {
+    "crop": "Soybean",
+    "disease": "Healthy",
+    "organic": "No treatment needed.",
+    "chemical": "No treatment needed.",
+    "prevention": "Rotation. Resistant varieties. Seed treatment. Scout for pests.",
+    "urgency": "none",
+    "severity": "No disease present"
+  },
+  "Squash___Powdery_mildew": {
+    "crop": "Squash",
+    "disease": "Powdery Mildew",
+    "organic": "Neem oil, potassium bicarbonate, sulfur. Resistant varieties. Spacing.",
+    "chemical": "Myclobutanil, triflumizole, or quinoxyfen. Rotate modes of action.",
+    "prevention": "Resistant varieties. Wide spacing. Drip irrigation. Remove crop debris.",
+    "urgency": "medium",
+    "severity": "Reduces photosynthesis, fruit quality"
+  },
+  "Strawberry___Leaf_scorch": {
+    "crop": "Strawberry",
+    "disease": "Leaf Scorch",
+    "organic": "Remove infected leaves. Mulch. Avoid overhead watering. Resistant varieties.",
+    "chemical": "Captan, thiophanate-methyl, or myclobutanil. Apply at renovation.",
+    "prevention": "Resistant varieties. Renovation. Mulch. Drip irrigation. Rotation.",
+    "urgency": "medium",
+    "severity": "Weakens plants, reduces yield"
+  },
+  "Strawberry___healthy": {
+    "crop": "Strawberry",
+    "disease": "Healthy",
+    "organic": "No treatment needed.",
+    "chemical": "No treatment needed.",
+    "prevention": "Renovation. Mulch. Disease-free plants. Rotation. Weed control.",
+    "urgency": "none",
+    "severity": "No disease present"
+  },
+  "Tomato___Bacterial_spot": {
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "organic": "Copper sprays. Resistant varieties. Hot water seed treatment. Mulch.",
+    "chemical": "Copper hydroxide + mancozeb. Actigard (acibenzolar-S-methyl).",
+    "prevention": "Pathogen-free seeds/transplants. Drip irrigation. Rotation. Mulch.",
+    "urgency": "high",
+    "severity": "Fruit lesions, defoliation, major yield loss"
+  },
+  "Tomato___Early_blight": {
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "organic": "Mulch. Stake/prune. Copper or sulfur. Remove lower leaves. Rotation.",
+    "chemical": "Chlorothalonil, mancozeb, azoxystrobin, or boscalid. Start at first fruit.",
+    "prevention": "Rotation. Mulch. Staking. Resistant varieties. Balanced fertility.",
+    "urgency": "medium",
+    "severity": "Defoliation, fruit sunscald, yield loss"
+  },
+  "Tomato___Late_blight": {
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "organic": "Copper sprays. Resistant varieties (Defiant, Mountain Magic). Destroy volunteers.",
+    "chemical": "Mancozeb, chlorothalonil, cymoxanil, fluopicolide. Preventive schedule.",
+    "prevention": "Resistant varieties. Eliminate volunteers. Forecast alerts. Drip irrigation.",
+    "urgency": "critical",
+    "severity": "Rapid crop destruction. Same pathogen as Irish potato famine."
+  },
+  "Tomato___Leaf_Mold": {
+    "crop": "Tomato",
+    "disease": "Leaf Mold",
+    "organic": "Reduce humidity. Increase air flow. Remove infected leaves. Sulfur.",
+    "chemical": "Mancozeb, difenoconazole, or cyprodinil+fludioxonil. Greenhouse: ventilation.",
+    "prevention": "Ventilation. Resistant varieties. Avoid overhead water. Wider spacing.",
+    "urgency": "medium",
+    "severity": "Defoliation in humid conditions"
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "crop": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "organic": "Mulch. Stake. Remove lower leaves. Copper sprays. Rotation (3 years).",
+    "chemical": "Chlorothalonil, mancozeb, or azoxystrobin. Start at first fruit set.",
+    "prevention": "Rotation. Mulch. Staking. Drip irrigation. Remove debris.",
+    "urgency": "medium",
+    "severity": "Progressive defoliation from bottom up"
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "crop": "Tomato",
+    "disease": "Spider Mites",
+    "organic": "Insecticidal soap, neem oil, horticultural oil. Predatory mites. Water spray.",
+    "chemical": "Abamectin, bifenazate, spiromesifen. Rotate modes of action.",
+    "prevention": "Avoid dust. Adequate irrigation. Scout undersides. Encourage predators.",
+    "urgency": "high",
+    "severity": "Stippling, bronzing, webbing, plant death"
+  },
+  "Tomato___Target_Spot": {
+    "crop": "Tomato",
+    "disease": "Target Spot",
+    "organic": "Rotation. Mulch. Stake. Remove debris. Copper sprays.",
+    "chemical": "Chlorothalonil, mancozeb, or azoxystrobin. Start at flowering.",
+    "prevention": "Rotation. Resistant varieties. Mulch. Air circulation. Sanitation.",
+    "urgency": "medium",
+    "severity": "Leaf spots, fruit lesions, defoliation"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "crop": "Tomato",
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "organic": "Remove infected plants. Reflective mulch. Whitefly control (soap, oil).",
+    "chemical": "Imidacloprid, thiamethoxam for whitefly vector. No cure for virus.",
+    "prevention": "Resistant varieties (TYLCV-resistant). Whitefly management. Weed-free borders.",
+    "urgency": "critical",
+    "severity": "Stunted growth, no fruit. No cure. Remove plants."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "crop": "Tomato",
+    "disease": "Tomato Mosaic Virus",
+    "organic": "Remove infected plants. Disinfect tools (bleach). No smoking near plants.",
+    "chemical": "No chemical control. Virus management only.",
+    "prevention": "Resistant varieties. Sanitation. Seed treatment. Avoid handling when wet.",
+    "urgency": "high",
+    "severity": "Mosaic, distortion, yield loss. Persists in soil/debris."
+  },
+  "Tomato___healthy": {
+    "crop": "Tomato",
+    "disease": "Healthy",
+    "organic": "No treatment needed.",
+    "chemical": "No treatment needed.",
+    "prevention": "Rotation. Staking. Mulch. Drip irrigation. Disease-free transplants. Scout.",
+    "urgency": "none",
+    "severity": "No disease present"
+  }
+}
